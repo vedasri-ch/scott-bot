@@ -6,6 +6,8 @@ A Discord bot implementation of the classic Scotland Yard board game, where play
 
 - Real-time game state management
 - Interactive map visualization
+  *) Sends customized map image ( zoomed in ), for ease of player
+  *) Automatic + updated map generation
 - Multiple transportation modes (Taxi, Bus, Metro)
 - Role-based gameplay (Mr. X and Detectives)
 - Ticket management system
@@ -27,6 +29,7 @@ A Discord bot implementation of the classic Scotland Yard board game, where play
 - `nodes.txt` - Node/point data for the map
 - `map.png` - Base map image
 - `startgame_image.png` - Game start screen image
+- `connections.txt` - All possible moves, and tickets required for the moves
 
 ## Setup and Running Instructions
 
