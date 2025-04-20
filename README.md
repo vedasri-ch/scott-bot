@@ -141,6 +141,5 @@ A Discord bot implementation of the classic Scotland Yard board game, where play
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-[Add your license information here] 
+## Demo
+https://youtu.be/A9kMzB6QDEE
